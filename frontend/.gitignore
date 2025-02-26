@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Code coverage
+coverage/
+
+# Environment variables
+.env
